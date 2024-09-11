@@ -1,0 +1,43 @@
+# Titanic Survival Analysis
+
+This project analyzes the famous Titanic dataset to predict passenger survival using exploratory data analysis (EDA) and a logistic regression model.
+
+## Data
+
+- **Passenger Class**
+- **Gender**
+- **Age**
+- **Fare**
+- **Family Size**
+- **Embarked**
+
+## Steps
+
+1. Data Cleaning
+2. Exploratory Data Analysis (EDA)
+3. Feature Engineering
+4. Logistic Regression Model
+5. Evaluation of Model Performance
+
+## Results
+
+- Logistic Regression achieved an accuracy of **X%**.
+- Visualizations like age distribution, survival rates by gender and class, etc.
+
+## Project Structure
+
+titanic-survival-analysis/ 
+│
+├── data/ 
+├── notebooks/ 
+├── src/ 
+├── images/ 
+└── README.md
+
+
+## How to Use
+
+1. Clone the repository
+2. Install the dependencies
+3. Run the Jupyter notebook for EDA and model training
+
